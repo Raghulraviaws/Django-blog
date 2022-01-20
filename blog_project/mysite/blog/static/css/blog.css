@@ -1,0 +1,70 @@
+.techfont{
+
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #db784b;
+
+}
+
+.nav-item {
+
+  color: black;
+
+}
+
+.bigbrand{
+
+  font-size: 2.5em;
+  color: #404547;
+
+
+}
+
+.posttitle{
+
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 2em;
+
+}
+
+.postcontent{
+
+
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.bg-custom-1 {
+  background-color: #85144b;
+}
+
+.bg-custom-2 {
+background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);}
+
+.centerstage{
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.postlisttitle{
+
+  font-family: 'Cormorant Garamond', serif;
+  font-variant: small-caps;
+  font-weight:bolder;
+}
+
+nav.navbar-nav.navbar-right.ms-auto.mb-2.mb-lg-0{
+
+  color: black;
+
+}
+
+
+/* font-family: 'Cinzel Decorative', cursive;
+font-family: 'Cormorant Garamond', serif; */
